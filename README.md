@@ -5,6 +5,9 @@ Welcome to the zcash documentation pages. Here you can find information on zcash
 ## Getting Started
 https://zcash.readthedocs.io/en/latest/ 
 
+## Zash RPCs
+https://zcash.github.io/rpc/
+
 ## Zcash Book
 https://zcash.github.io/zcash/
 
